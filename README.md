@@ -63,7 +63,7 @@
      
   - ## Rentabilidade: 
  
-#### <br> O númer de empreendedores no Brasil aumenta 10 vez em uma década.
+#### <br> O número de empreendedores no Brasil aumenta 10 vez em uma década.
 #### Só no ano passado, foram abertas, em média, 7,2 mil empresas por dia. Desde que as MEIs foram regulamentadas, o número de microempreendedores individuais aumenta a cada ano. Em 2009, foram 28 mil. No ano passado, foram criadas mais de 2,5 milhões MEIs.
 <b>Com isso vemos o crescimento de pequenos negocios lucrativos, que geram por ano ao cerca R$ 11 bilhões todos os meses, o que significa R$ 140 bilhões por ano. </b>
 </div>
