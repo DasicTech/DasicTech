@@ -38,9 +38,9 @@
 <div>
  
  -  ### Caio Stuart: <br>
-  <a href="https://github.com/NattanGama" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/NattanGama" target=_blank></a>
-   <a href="https://www.linkedin.com/in/nattan-gama-05369a192" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nattan-gama-05369a192" target=_blank></a>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
+  <a href="https://github.com/CaioStuart" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/NattanGama" target=_blank></a>
+   <a href="https://www.linkedin.com/in/caio-stuart-rozeno-tabosa-676454268/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/nattan-gama-05369a192" target=_blank></a>
+  <a href="mailto:Caio.stuartrt@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
 </div>
 
 <div>
