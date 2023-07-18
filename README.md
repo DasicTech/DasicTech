@@ -30,9 +30,9 @@
 <div>
  
  -  ### Daniel Victor: <br>
-  <a href="https://github.com/srwyctor" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/srwyctor" target=_blank></a>
-   <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-santana-a8969918a/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-santana-a8969918a/" target=_blank></a>
-  <a href="https://mail.google.com/mail/u/1/?ogbl#inbox" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
+  <a href=" https://github.com/daniel2014k" target=_blank><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/srwyctor" target=_blank></a>
+   <a href="https://www.linkedin.com/in/daniel-victor-97a295214/" target=_blank><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jo%C3%A3o-victor-santana-a8969918a/" target=_blank></a>
+  <a href="mailto: danielsilva30101@gmail.com" target=_blank><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target=_blank></a>
 </div>
 
 <div>
